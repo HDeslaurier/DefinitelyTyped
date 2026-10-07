@@ -311,4 +311,4 @@ d.updateOptions({
 });
 
 // $ExpectType number
-Dygraph.Granularity.MINUTELY
+Dygraph.Granularity.MINUTELY;
